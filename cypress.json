@@ -1,0 +1,6 @@
+{
+
+    "testFiles": "**/*.feature",
+    "defaultCommandTimeout": 10000
+  
+  }
